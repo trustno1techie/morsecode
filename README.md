@@ -1,5 +1,5 @@
 # morsecode
-International Morse Code console - sound generator
+International Morse Code Console - Sound Generator
 
 This is a simple Morse code app that beeps the Morse code after you enter the text. The app is a bash script with Zenity GUI, and it depends on Sox and Zenity. It works on Ubuntu and is very simple and fun tool for learning Morse code. You can easily edit beep speed, pause, and tone in the script.
 
