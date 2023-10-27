@@ -1,7 +1,7 @@
 #!/bin/bash
 # International Morse Code console - sound generator
 # This script depends on "sox" and "zenity".
-# Written by LK
+# Written by trustno1techie
 
 #Tone configuration:
 short=0.08
