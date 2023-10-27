@@ -37,9 +37,11 @@ To use the Morse code app, follow these steps:
 
 
 License
+
 This Morse code app is licensed under the MIT License.
 
 Acknowledgments
+
 Thank you to the following resources for their help in creating this Morse code app:
 
     SOX Documentation
