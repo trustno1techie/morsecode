@@ -1,9 +1,10 @@
 # morsecode
 International Morse Code console - sound generator
 
-This is a simple Morse code app that beeps the Morse code after you enter the text. The app is a bash script with Zenity GUI, and it depends on Sox and Zenity. It works on Ubuntu and is very good for learning Morse code. You can easily edit beep speed, pause, and tone in the script.
+This is a simple Morse code app that beeps the Morse code after you enter the text. The app is a bash script with Zenity GUI, and it depends on Sox and Zenity. It works on Ubuntu and is very simple and fun tool for learning Morse code. You can easily edit beep speed, pause, and tone in the script.
 
 Installation
+
 To install the Morse code app, follow these steps:
 
     Install Sox and Zenity by running the following command in the terminal:
@@ -16,6 +17,7 @@ Make the script executable by running the following command in the terminal:
 chmod +x morse.sh
 
 Usage
+
 To use the Morse code app, follow these steps:
 
     Click on the script file, or navigate to the directory in terminal where the morse.sh script is located.
